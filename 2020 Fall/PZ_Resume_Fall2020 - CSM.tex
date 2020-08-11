@@ -1,0 +1,106 @@
+
+\documentclass[11pt]{article}
+
+\usepackage{geometry}
+\usepackage{indentfirst}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+\pagestyle{empty}
+\geometry{margin=0.5in}
+\setlength\parindent{9pt}
+\setlist{nosep}
+\renewcommand\labelitemi{--}
+
+\definecolor{highlight}{RGB}{45, 85, 180}
+
+\newcommand{\name}[1]{\begin{center}\section*{\huge \color{highlight} #1}\end{center}}
+\newcommand{\topinfo}[1]{\begin{center}\vspace{-0.2cm}#1\vspace{-0.2cm}\end{center}}
+\newcommand{\resumesection}[1]{\vspace{-0.3cm}\section*{\color{highlight}#1}\vspace{-0.3cm}\hrule\vspace{0.3cm}}
+
+\renewcommand{\familydefault}{\sfdefault}
+
+\begin{document}
+
+\name{Peter Zhang}
+\topinfo{petejzh@gmail.com \textbullet\ (240) 994-2204 \textbullet\ github.com/petezh}
+
+\resumesection{Education}
+
+\textbf{University of California, Berkeley} Berkeley, CA \hfill Class of 2024 \par
+\textit{Computer Science BA; 4.00 GPA}
+\begin{itemize}
+	\item Coursework: CS61A, EECS16A
+\end{itemize}
+
+\textbf{Montgomery Blair High School} Silver Spring, MD \hfill Class of 2020 \par
+\textit{Science, Mathematics and Computer Science Magnet Program; 3.95 GPA}
+
+\begin{itemize}
+	\item Coursework: Complex Analysis, Analysis of Algorithms, Software Development, Artificial Intelligence
+	\item Activities: Debate Team, Programming Club, DECA, Chamber Choir
+\end{itemize}
+
+\resumesection{Experience}
+
+\textbf{Assistant Debate Coach}  \hfill Aug 2020--Present \par
+\textit{The Bronx High School of Sicence; Dr. Timothy Huth, Director}
+\begin{itemize}
+	\item Lead lectures and dirlls at weekly afterschool practices
+	\item Mentor and assist students at monthly debate tournaments
+\end{itemize}
+
+\textbf{Product Manager}   \hfill Dec 2018--Present \par
+\textit{Premier Debate Institute, Los Angeles; Bob Overing, Director}
+\begin{itemize}
+	\item Oversee publication of topic research briefings used by thousands of debaters
+	\item Maintain and design webpages at premierdebate.com
+\end{itemize}
+
+\textbf{Lab Leader}  \hfill Jun 2020 \par
+\textit{War Room Debate; Austin, TX; Aimun Khan, Director}
+\begin{itemize}
+	\item Prepared materials and demos for a Lincoln-Douglas debate curriculum
+	\item Led lab of 15 students for two weeks of daily drills and practice debates
+\end{itemize}
+
+\textbf{\href{https://github.com/petezh/TP-Workbench}{Data Visualization Intern}} \hfill Jul 2019--Mar 2020 \par
+\textit{National Cancer Institute; Dr. Yingdong Zhao}
+\begin{itemize}
+	\item Scraped and reformatted 1 billion+ datapoints with Python
+	\item Designed R Shiny interface for interactive plotting and statistical analyses
+\end{itemize}\vspace{0.1cm}
+
+\textbf{\href{https://github.com/petezh/Root-and-Rule-NLP}{NLP Intern}} \hfill Jun 2019--Sept 2019\par
+\textit{National Institute of Standards and Technology; Dr. TN Bhat}
+\begin{itemize}
+	\item Automated the download of scientific articles and preprocessing of sentences in Python
+	\item Designed a rule-based algorithm to construct subject-predicate-object triplets
+	\item Improved topic modeling and document clustering with root-and-rule terms in NLTK library
+\end{itemize}\vspace{0.1cm}
+
+
+\resumesection{Skills}
+
+\textbf{Interpersonal}
+\begin{itemize} 
+	\item Instruction, public speaking, communication, 
+	\item Time management, adaptability
+\end{itemize}\vspace{0.1cm}
+
+\textbf{Technical}
+\begin{itemize} 
+	\item Langauges: Java, Python/Jupyter, R w/ Shiny, PHP/SQL, \LaTeX
+	\item Tools: Git, Eclipse/IntelliJ/VS Code, Maven, WordPress
+\end{itemize}\vspace{0.1cm}
+
+\resumesection{Awards}
+
+National Speech and Debate Tournament; 6th Speaker \hfill Jun 2020 \par
+USA Computing Olympiad; Platinum Division \hfill Apr 2020 \par
+American Regions Mathematics League; Division A, 8th Place \hfill Jun 2019 \par
+International Mathematics Modeling Challenge; Finalist \hfill Apr 2019\par
+
+
+\end{document}
