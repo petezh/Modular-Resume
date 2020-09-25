@@ -1,7 +1,7 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.4.16)  25 AUG 2020 23:49
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.4.16)  2 SEP 2020 22:55
 entering extended mode
-**"./PZ_Resume_Fall2020 - Fowlie.tex"
-("PZ_Resume_Fall2020 - Fowlie.tex"
+**"./PZ_Resume_Fall2020 - Consulting.tex"
+("PZ_Resume_Fall2020 - Consulting.tex"
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06>
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
@@ -206,8 +206,8 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count190
 \l__pdf_internal_box=\box46
 )
-("PZ_Resume_Fall2020 - Fowlie.aux")
-\openout1 = `"PZ_Resume_Fall2020 - Fowlie.aux"'.
+("PZ_Resume_Fall2020 - Consulting.aux")
+\openout1 = `"PZ_Resume_Fall2020 - Consulting.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
@@ -291,54 +291,53 @@ LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
 
-("PZ_Resume_Fall2020 - Fowlie.out") ("PZ_Resume_Fall2020 - Fowlie.out")
+("PZ_Resume_Fall2020 - Consulting.out") ("PZ_Resume_Fall2020 - Consulting.out")
 \@outlinefile=\write3
-\openout3 = `"PZ_Resume_Fall2020 - Fowlie.out"'.
+\openout3 = `"PZ_Resume_Fall2020 - Consulting.out"'.
 
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
 27.
-
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\ts1cmss.fd"
 File: ts1cmss.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
 LaTeX Font Info:    Font shape `OT1/cmss/m/it' in size <10.95> not available
 (Font)              Font shape `OT1/cmss/m/sl' tried instead on input line 32.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 82.
+(Font)              <10.95> on input line 93.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 82.
+(Font)              <8> on input line 93.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 82.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 113.
+(Font)              <6> on input line 93.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 106.
  [1
 
 {C:/Users/thepe/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 113.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 106.
 
-("PZ_Resume_Fall2020 - Fowlie.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 113.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 113.
-Package rerunfilecheck Info: File `"PZ_Resume_Fall2020 - Fowlie".out' has not c
-hanged.
+("PZ_Resume_Fall2020 - Consulting.aux")
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 106.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 106.
+Package rerunfilecheck Info: File `"PZ_Resume_Fall2020 - Consulting".out' has n
+ot changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 113.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 106.
  ) 
 Here is how much of TeX's memory you used:
- 6130 strings out of 480934
- 94243 string characters out of 2909682
- 371428 words of memory out of 3000000
+ 6129 strings out of 480934
+ 94291 string characters out of 2909682
+ 371432 words of memory out of 3000000
  21915 multiletter control sequences out of 15000+200000
  537572 words of font info for 41 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 34i,5n,37p,242b,308s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 34i,5n,37p,248b,308s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\thepe\AppData\Local\MiKTeX\2.9\fonts/pk/ljfour/jknappen/ec/dpi600\
 tcss1095.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.
 pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss8.pfb><C:/P
 rogram Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C:/Program
  Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on "PZ_Resume_Fall2020 - Fowlie.pdf" (1 page, 56510 bytes).
+Output written on "PZ_Resume_Fall2020 - Consulting.pdf" (1 page, 56400 bytes).
 PDF statistics:
- 42 PDF objects out of 1000 (max. 8388607)
- 8 named destinations out of 1000 (max. 500000)
+ 41 PDF objects out of 1000 (max. 8388607)
+ 7 named destinations out of 1000 (max. 500000)
  1 words of extra memory for PDF output out of 10000 (max. 10000000)
 
