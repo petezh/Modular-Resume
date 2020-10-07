@@ -1,0 +1,106 @@
+
+\documentclass[11pt]{article}
+
+\usepackage{geometry}
+\usepackage{indentfirst}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+\pagestyle{empty}
+\geometry{margin=0.5in}
+\setlength\parindent{9pt}
+\setlist{nosep}
+\renewcommand\labelitemi{--}
+
+\definecolor{highlight}{RGB}{45, 85, 180}
+
+\newcommand{\name}[1]{\begin{center}\section*{\huge \color{highlight} #1}\end{center}}
+\newcommand{\topinfo}[1]{\begin{center}\vspace{-0.2cm}#1\vspace{-0.2cm}\end{center}}
+\newcommand{\resumesection}[1]{\vspace{-0.3cm}\section*{\color{highlight}#1}\vspace{-0.3cm}\hrule\vspace{0.3cm}}
+
+\renewcommand{\familydefault}{\sfdefault}
+
+\begin{document}
+
+\name{Peter Zhang}
+\topinfo{petez@berkeley.edu \textbullet\ (240) 994-2204 \textbullet\ github.com/petezh}
+
+\resumesection{Education}
+
+\textbf{University of California, Berkeley} Berkeley, CA \hfill Class of 2024 \par
+\textit{Computer Science and Economics BA; 4.00 GPA}
+\begin{itemize}
+	\item Coursework: Data Structures, Discrete Math and Probability, Computer Programs
+	\item Activities: Voyager Consulting, Computer Science Mentors, Berkeley Economic Review
+\end{itemize}
+
+\resumesection{Skills}
+
+\textbf{Languages}
+\begin{itemize} 
+	\item Python/Jupyter, R w/ Shiny, Java, PHP/SQL, HTML/CSS, \LaTeX
+\end{itemize}\vspace{0.1cm}
+
+\textbf{Tools}
+\begin{itemize} 
+	\item Git/Terminal,  IDLE/Eclipse/IntelliJ, WordPress, Android Studio
+\end{itemize}
+
+\resumesection{Experience}
+
+\textbf{\href{https://www.premierdebate.com/briefs/}{Product Manager}} \hfill Dec 2018--Present \par
+\textit{Premier Debate America}
+\begin{itemize}
+	\item Regularly publish 100+ pages of topic research for thousands of debaters
+	\item Design and maintain Wordpress webpages at premierdebate.com
+\end{itemize}
+
+\textbf{\href{https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1260.pdf}{Research Intern}} \hfill May 2020--Sep 2020 \par
+\textit{National Institute of Standards and Technology}
+\begin{itemize}
+	\item Reviewed and annotated over 50 papers on community resilience projects
+	\item Wrote a case study showcasing the co-benefits of wildfire-proof infrastructure
+	\item Published user manual for Edge\$, an online cost-benefit analysis tool
+\end{itemize}\vspace{0.1cm}
+
+\textbf{\href{https://github.com/petezh/TP-Workbench}{Research Assistant}} \hfill Jul 2019--Apr 2020 \par
+\textit{National Cancer Institute}
+\begin{itemize}
+	\item Reformatted database of 1 billion+ gene expression datapoints for efficiency
+	\item Wrote R Shiny app for interactive plotting and regression/correlation analysis
+	\item Used Electron framework to create portable Windows and MacOS software
+\end{itemize}\vspace{0.1cm}
+
+\textbf{\href{https://github.com/petezh/Root-and-Rule-NLP}{Summer Intern}} \hfill Jun 2019--Aug 2019\par
+\textit{National Institute of Standards and Technology}
+\begin{itemize}
+	\item Automated the download of scientific articles and preprocessing of sentences
+	\item Designed a rule-based algorithm to construct subject-predicate-object triplets
+	\item Demonstrated improvements in LDA topic modeling with Jupyter notebook trials
+\end{itemize}\vspace{0.1cm}
+
+\resumesection{Projects}
+
+\textbf{WikiGrab} Python web scraper and repository of debate cases and tournament entries \hfill Jul 2020 \par
+\vspace{0.1cm}
+
+\textbf{ScreenReader} VBA macro for reformatting documents to a screen-reader accessible format \hfill Nov 2019 \par
+\vspace{0.1cm}
+
+\textbf{\href{https://github.com/gautomdas/eye-coach}{Eye Coach}} Mobile app with augmented reality to help people with autism train eye contact \hfill Jan 2019 \par
+\vspace{0.1cm}
+
+\textbf{\href{https://github.com/prayaggordy/HiMCM}{Coaster Ranker}} Neural network for predicting roller coaster ratings from height, speed, etc.  \hfill Nov 2018\par
+\vspace{0.1cm}
+
+
+\resumesection{Awards}
+
+UC Berkeley Leadership Award \hfill Jul 2020 \par
+USA Computing Olympiad; Platinum Division \hfill Apr 2020 \par
+American Regions Mathematics League; Division A, 8th Place \hfill Jun 2019 \par
+Hack Pennsylvania; Best In Show \hfill Jan 2019 \par
+International Mathematics Modeling Challenge; Finalist \hfill Apr 2019\par
+
+\end{document}
