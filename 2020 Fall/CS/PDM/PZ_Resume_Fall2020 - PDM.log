@@ -1,7 +1,7 @@
 This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 2.9.7350 64-bit) (preloaded format=pdflatex 2020.4.16)  11 OCT 2020 23:13
 entering extended mode
-**"./PZ_Resume_Fall2020 - SWE.tex"
-("PZ_Resume_Fall2020 - SWE.tex"
+**"./PZ_Resume_Fall2020 - PDM.tex"
+("PZ_Resume_Fall2020 - PDM.tex"
 LaTeX2e <2020-02-02> patch level 5
 L3 programming layer <2020-03-06>
 ("C:\Program Files\MiKTeX 2.9\tex/latex/base\article.cls"
@@ -206,8 +206,8 @@ File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
 \l__kernel_color_stack_int=\count190
 \l__pdf_internal_box=\box46
 )
-No file "PZ_Resume_Fall2020 - SWE".aux.
-\openout1 = `"PZ_Resume_Fall2020 - SWE.aux"'.
+No file "PZ_Resume_Fall2020 - PDM".aux.
+\openout1 = `"PZ_Resume_Fall2020 - PDM.aux"'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 24.
 LaTeX Font Info:    ... okay on input line 24.
@@ -290,7 +290,7 @@ LaTeX Info: Redefining \ref on input line 24.
 LaTeX Info: Redefining \pageref on input line 24.
 LaTeX Info: Redefining \nameref on input line 24.
 \@outlinefile=\write3
-\openout3 = `"PZ_Resume_Fall2020 - SWE.out"'.
+\openout3 = `"PZ_Resume_Fall2020 - PDM.out"'.
 
 LaTeX Font Info:    Trying to load font information for TS1+cmss on input line 
 27.
@@ -305,17 +305,17 @@ Package atveryend Info: Empty hook `BeforeClearDocument' on input line 101.
 
 {C:/Users/thepe/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
 Package atveryend Info: Empty hook `AfterLastShipout' on input line 101.
- ("PZ_Resume_Fall2020 - SWE.aux")
+ ("PZ_Resume_Fall2020 - PDM.aux")
 Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 101.
 Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 101.
 
 
-Package rerunfilecheck Warning: File `"PZ_Resume_Fall2020 - SWE".out' has chang
+Package rerunfilecheck Warning: File `"PZ_Resume_Fall2020 - PDM".out' has chang
 ed.
 (rerunfilecheck)                Rerun to get outlines right
 (rerunfilecheck)                or use package `bookmark'.
 
-Package rerunfilecheck Info: Checksums for `"PZ_Resume_Fall2020 - SWE".out':
+Package rerunfilecheck Info: Checksums for `"PZ_Resume_Fall2020 - PDM".out':
 (rerunfilecheck)             Before: <no file>
 (rerunfilecheck)             After:  D41D8CD98F00B204E9800998ECF8427E;0.
 Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 101.
@@ -332,7 +332,7 @@ Here is how much of TeX's memory you used:
 tcss1095.pk><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmss10.
 pfb><C:/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssbx10.pfb><C
 :/Program Files/MiKTeX 2.9/fonts/type1/public/amsfonts/cm/cmssi10.pfb>
-Output written on "PZ_Resume_Fall2020 - SWE.pdf" (1 page, 51214 bytes).
+Output written on "PZ_Resume_Fall2020 - PDM.pdf" (1 page, 51214 bytes).
 PDF statistics:
  48 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 500000)
