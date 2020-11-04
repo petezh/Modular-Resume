@@ -1,0 +1,114 @@
+
+\documentclass[11pt]{article}
+
+\usepackage{geometry}
+\usepackage{indentfirst}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{hyperref}
+
+\pagestyle{empty}
+\geometry{margin=0.5in}
+\setlength\parindent{9pt}
+\setlist{nosep}
+\renewcommand\labelitemi{--}
+
+\definecolor{highlight}{RGB}{45, 85, 180}
+
+\newcommand{\name}[1]{\begin{center}\section*{\huge \color{highlight} #1}\end{center}}
+\newcommand{\topinfo}[1]{\begin{center}\vspace{-0.2cm}#1\vspace{-0.2cm}\end{center}}
+\newcommand{\resumesection}[1]{\vspace{-0.3cm}\section*{\color{highlight}#1}\vspace{-0.3cm}\hrule\vspace{0.3cm}}
+
+\renewcommand{\familydefault}{\sfdefault}
+
+\begin{document}
+
+\name{Peter Zhang}
+\topinfo{petez@berkeley.edu \textbullet\ (240) 994-2204 \textbullet\ \href{https://github.com/petezh}{GitHub: petezh}  \textbullet  \href{https://www.linkedin.com/in/pjz/}{ LinkedIn: pjz}}
+
+\resumesection{Education}
+
+\textbf{University of California, Berkeley\hfill Berkeley, CA} \par
+\textit{Computer Science and Economics B.A.}; 4.00 Cummulative GPA \hfill Class of 2023
+\begin{itemize}
+	\item \textbf{Coursework} Data Structures, Discrete Math and Probability, Functional Programming, Linear Algebra, Statistics
+	\item \textbf{Activities} Debate Society at Berkeley, Computer Science Mentors, Berkeley Economic Review
+\end{itemize}
+
+\resumesection{Experience}
+
+
+\textbf{Voyager Consulting \hfill Berkeley, CA}\par
+\textit{Consultant} \hfill Sep 2020--Present
+\begin{itemize}
+	\item Provide strategy consulting to Fortune 500 and high growth companies for a student run organization
+	\item Use sentiment analysis on social media and reviews to identify promising products for development
+\end{itemize}\par
+
+
+\textbf{National Institute of Standards and Technology \hfill Gaithersburg, MD}\par
+
+\textit{Applied Economics Research Intern} \hfill May 2020--Sep 2020
+\begin{itemize}
+	\item Annotated 50+ papers on resilience planning to find trends in how co-benefits are treated in benefit-cost analysis
+	\item Wrote case study of wildfire-resistant retrofits by estimating and comparing 10 sources of costs/benefits in Excel
+	\item Published \href{https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1260.pdf}{user manual} for Edge\$, an online decision-making software for community resilience projects
+\end{itemize}\par
+
+\textit{NLP Research Intern} \hfill Jun 2019--Aug 2019
+\begin{itemize}
+	\item Wrote Python scripts to preprocess corpora and construct subject-predicate-object tuples with NLTK/Gensim
+	\item Improved Latent Dirichlet Allocation topic modeling using root-and-rule preprocessing in \href{https://github.com/petezh/RR-NLP-Tools}{Jupyter Notebook trials}
+\end{itemize}\vspace{0.1cm}
+
+\textbf{National Cancer Institute \hfill Rockville, MD}\par
+
+\textit{Data Visualization Research Assistant} \hfill Jul 2019--Apr 2020 \par
+\begin{itemize}
+	\item Scraped and reformatted 1 billion+ gene expression datapoints from drug trials to expedite user queries
+	\item Co-authored \href{https://github.com/petezh/TP-Workbench}{R Shiny app} for dynamic plotting/analysis and created an Electron-based MacOS deployable
+\end{itemize}
+
+\textbf{Premier Debate America \hfill Los Angeles, CA} \par
+
+\textit{Product Manager}\hfill Dec 2018--Present
+\begin{itemize}
+	\item Lead bi-monthly publication of 200+ pages of topic research used freely by thousands of debaters nationwide
+	\item Design and maintain \href{https://www.premierdebate.com/briefs/}{premierdebate.com} using Wordpress and CSS/Javascript with 67,000 visitors in 2019
+\end{itemize}\vspace{0.1cm}
+
+
+\resumesection{Projects}
+
+\textbf{\href{https://github.com/gautomdas/IMMC-World4/blob/master/US-9365.pdf}{World4}} \hfill Apr 2019\par
+\begin{itemize}
+	\item Carrying capacity model based on Spearman correlation and regression of 20+ environmental indicators
+	\item Awarded Top 6 in the US in the International Mathematics Modeling Competition for rigor and innovation
+\end{itemize}\vspace{0.1cm} \par
+
+\textbf{\href{https://github.com/gautomdas/eye-coach}{Eye Coach}} \hfill Jan 2019 \par
+
+\begin{itemize}
+	\item Swift app using augmented reality and Haar cascades to help people with autism train eye contact
+	\item Built in 24 hours at Hack Pennsylvania, winning best-in-show among 100+ other participants
+\end{itemize}\vspace{0.1cm} \par
+
+\textbf{\href{https://github.com/prayaggordy/HiMCM}{Roller Coaster Ranker}}  \hfill Nov 2018\par
+
+\begin{itemize}
+	\item Neural network that predicts ratings from auto-encoded coaster features like height, speed, location, etc.
+	\item Awarded finalist in the International High School Mathematics Challenge in Modeling among 280+ teams
+\end{itemize}\par
+
+\resumesection{Skills}
+
+\textbf{Languages} Python/Jupyter, R w/ Shiny, Java, SQL, HTML/CSS/Javascript, MATLAB\par
+\textbf{Tools} Git/Terminal, VS Code/IntelliJ/Android Studio, WordPress, Electron
+
+\resumesection{Awards}
+
+UC Berkeley Leadership Award; Recipient \hfill Jul 2020 \par
+USA Computing Olympiad; Platinum Division \hfill Apr 2020 \par
+American Regions Mathematics League; 8th Place \hfill Jun 2019 \par
+
+\end{document}
