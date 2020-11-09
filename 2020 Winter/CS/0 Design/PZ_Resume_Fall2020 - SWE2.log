@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7350 64-bit)  (format=lualatex 2020.11.6)  6 NOV 2020 23:05
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7350 64-bit)  (format=lualatex 2020.11.6)  8 NOV 2020 23:03
  restricted system commands enabled.
 **"PZ_Resume_Fall2020 - SWE2.tex"
 ("./PZ_Resume_Fall2020 - SWE2.tex"
@@ -516,7 +516,7 @@ LaTeX Font Info:    Overwriting math alphabet `\mathsf' in version `bold'
 LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 (Font)                  OT1/cmtt/m/n --> TU/lmtt/b/n on input line 27.
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
-(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 35.
+(Font)              Font shape `TU/lmss/m/sl' tried instead on input line 36.
 Package atveryend Info: Empty hook `BeforeClearDocument' on input line 116.
 
 [1
@@ -539,7 +539,7 @@ Here is how much of LuaTeX's memory you used:
  416 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:548,3:155,4:59,5:209,6:56,7:3840,8:23,9:165,10:12,11:306
+   avail lists: 1:1,2:556,3:155,4:59,5:207,6:56,7:3802,8:23,9:164,10:12,11:299
  31096 multiletter control sequences out of 65536+200000
  36 fonts using 4606859 bytes
  44i,5n,61p,344b,320s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -547,7 +547,7 @@ Here is how much of LuaTeX's memory you used:
 rogram files/miktex 2.9/fonts/opentype/public/lm/lmsans10-regular.otf><C:/Progra
 m Files/MiKTeX 2.9/fonts/opentype/public/fontawesome/fontawesome.otf><c:/program
  files/miktex 2.9/fonts/opentype/public/lm/lmsans10-bold.otf>
-Output written on PZ_Resume_Fall2020 - SWE2.pdf (1 page, 29301 bytes).
+Output written on PZ_Resume_Fall2020 - SWE2.pdf (1 page, 29534 bytes).
 
 PDF statistics: 57 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 131072)
