@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7350 64-bit)  (format=lualatex 2020.11.6)  7 DEC 2020 23:47
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7350 64-bit)  (format=lualatex 2020.11.6)  11 DEC 2020 18:03
  restricted system commands enabled.
 **"PZ_Resume_Fall2020 - SWE3.tex"
 ("./PZ_Resume_Fall2020 - SWE3.tex"
@@ -545,7 +545,7 @@ Here is how much of LuaTeX's memory you used:
  416 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:560,3:154,4:59,5:205,6:55,7:3783,8:23,9:165,10:12,11:304
+   avail lists: 1:1,2:560,3:154,4:59,5:203,6:55,7:3768,8:23,9:165,10:12,11:303
  31111 multiletter control sequences out of 65536+200000
  49 fonts using 5623931 bytes
  44i,5n,61p,344b,320s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -554,7 +554,7 @@ ogram files/miktex 2.9/fonts/opentype/public/lm/lmsans10-oblique.otf><c:/program
  files/miktex 2.9/fonts/opentype/public/lm/lmsans10-regular.otf><C:/Program File
 s/MiKTeX 2.9/fonts/opentype/public/fontawesome/fontawesome.otf><c:/program files
 /miktex 2.9/fonts/opentype/public/lm/lmsans10-bold.otf>
-Output written on PZ_Resume_Fall2020 - SWE3.pdf (1 page, 31294 bytes).
+Output written on PZ_Resume_Fall2020 - SWE3.pdf (1 page, 31094 bytes).
 
 PDF statistics: 64 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 131072)
