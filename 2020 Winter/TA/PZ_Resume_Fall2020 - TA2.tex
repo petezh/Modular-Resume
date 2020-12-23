@@ -1,0 +1,109 @@
+
+\documentclass[11pt]{article}
+
+\usepackage{geometry}
+\usepackage{indentfirst}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{fontspec}
+\usepackage{fontawesome}
+\usepackage{bbding}
+
+
+\pagestyle{empty}
+\geometry{margin=0.5in}
+\setlength\parindent{9pt}
+\setlist{nosep}
+\renewcommand\labelitemi{--}
+
+\definecolor{highlight}{RGB}{45, 85, 180}
+
+\newcommand{\name}[1]{\begin{center}\section*{\huge \color{highlight} #1}\end{center}}
+\newcommand{\topinfo}[1]{\begin{center}\vspace{-0.2cm}#1\vspace{-0.2cm}\end{center}}
+\newcommand{\resumesection}[1]{\vspace{-0.3cm}\section*{\color{highlight}#1}\vspace{-0.3cm}\hrule\vspace{0.3cm}}
+
+\renewcommand{\familydefault}{\sfdefault}
+
+\begin{document}
+
+\name{Peter Zhang}
+\topinfo{\faHome \ 15429 Indianola Drive, Derwood, MD 20855, United States of America}
+\topinfo{\href{mailto:petez@berkeley.edu}{\faEnvelope \ petez@berkeley.edu} \ \faPhone \ (240) 994-2204 \ \href{https://peterzhang.info/}{\faBriefcase \ peterzhang.info} \  \href{https://github.com/petezh}{\faGithub \ petezh} \  \href{https://www.linkedin.com/in/pjz/}{\faLinkedinSquare \ pjz}}
+
+\resumesection{Education}
+
+\textbf{University of California, Berkeley\hfill Berkeley, CA} \par
+\textit{Computer Science \& Economics B.A.}; 4.00 Cumulative GPA \hfill Class of 2024
+\begin{itemize}
+	\item \textbf{Coursework} Data Structures, Discrete Math and Probability, Functional Programming, Linear Algebra, Statistics
+	\item \textbf{Activities} Voyager Consulting, Debate Society at Berkeley, Computer Science Mentors, Berkeley Economic Review
+\end{itemize}
+
+\resumesection{Experience}
+
+\textbf{Computer Science Mentors \hfill Berkeley, CA} \par
+\textit{Junior Mentor} \hfill Sep 2020--Present \par
+\begin{itemize}
+	\item Prepare and present weekly mini-lectures and practice problems for a group of six CS 61A students
+	\item Assisted compilation of lectures and practice problems as a part of the Midterm 2 task force
+\end{itemize}\vspace{0.1cm}
+
+\textbf{The Bronx High School of Science \hfill Bronx, NY} \par
+\textit{Assistant Debate Coach}  \hfill Aug 2020--Present
+\begin{itemize}
+	\item Lead two practices each week for a team of 30+ Lincoln-Douglas debaters and drill with students one-on-one
+	\item Judge and coach at two tournaments each month, providing strategic advice and feedback to competitors
+\end{itemize}\vspace{0.1cm}
+
+\textbf{War Room Debate \hfill Austin, TX} \par
+\textit{Debate Instructor}  \hfill Jun 2020 \par
+\begin{itemize}
+	\item Designed sample cases and recorded demo videos for an advanced Lincoln-Douglas debate curriculum
+	\item Led lab of 15 students for two weeks of skills lectures, frequent drills, and practice debates
+\end{itemize}\vspace{0.1cm}
+
+\textbf{Premier Debate America \hfill  Los Angeles, CA} \par
+\textit{Product Manager} \hfill Dec 2018--Present \par
+\begin{itemize}
+	\item Lead bi-monthly publication of 200+ pages of topic research used freely by thousands of debaters nationwide
+	\item Design and maintain \href{https://www.premierdebate.com/briefs/}{premierdebate.com} using Wordpress and CSS/Javascript with 67,000 visitors in 2019
+\end{itemize}
+
+\resumesection{Projects}
+
+\textbf{\href{https://github.com/gautomdas/IMMC-World4/blob/master/US-9365.pdf}{World4}} \hfill Apr 2019\par
+\begin{itemize}
+	\item Carrying capacity model based on Spearman correlation and regression of 20+ environmental indicators
+	\item Awarded Top 6 in the US in the International Mathematics Modeling Competition for rigor and innovation
+\end{itemize}\vspace{0.1cm} \par
+
+\textbf{\href{https://github.com/gautomdas/eye-coach}{Eye Coach}} \hfill Jan 2019 \par
+
+\begin{itemize}
+	\item Swift app using augmented reality and Haar cascades to help people with autism train eye contact
+	\item Built in 24 hours at Hack Pennsylvania, winning best-in-show among 100+ other participants
+\end{itemize}\vspace{0.1cm} \par
+
+\textbf{\href{https://github.com/prayaggordy/HiMCM}{Roller Coaster Ranker}}  \hfill Nov 2018\par
+
+\begin{itemize}
+	\item Neural network that predicts ratings from auto-encoded coaster features like height, speed, location, etc.
+	\item Awarded finalist in the International High School Mathematics Challenge in Modeling among 280+ teams
+\end{itemize}\par
+
+\resumesection{Skills}
+
+\textbf{Languages} Python/Jupyter, R w/ Shiny, Java, SQL, HTML/CSS/Javascript, MATLAB\par
+\textbf{Tools} Git/Terminal, VS Code/IntelliJ/Android Studio, WordPress, Electron
+
+\resumesection{Awards}
+
+UC Berkeley Leadership Award; Recipient \hfill Aug 2020 \par
+National Speech and Debate Tournament; 6th Speaker \hfill Jun 2020 \par
+USA Computing Olympiad; Platinum Division \hfill Apr 2020 \par
+American Regions Mathematics League; Division A, 8th Place \hfill Jun 2019 \par
+International Mathematics Modeling Challenge; Finalist \hfill Apr 2019\par
+
+
+\end{document}
