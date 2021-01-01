@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7350 64-bit)  (format=lualatex 2020.11.6)  23 DEC 2020 18:52
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7350 64-bit)  (format=lualatex 2020.11.6)  1 JAN 2021 16:17
  restricted system commands enabled.
 **"PZ_Resume_Fall2020 - SWE4.tex"
 ("./PZ_Resume_Fall2020 - SWE4.tex"
@@ -518,25 +518,25 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `TU/lmss/m/sl' tried instead on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 102.
+(Font)              <10.95> on input line 108.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 102.
+(Font)              <8> on input line 108.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 102.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
+(Font)              <6> on input line 108.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 118.
 
 [1
 
 {C:/Users/thepe/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 118.
 
 ("./PZ_Resume_Fall2020 - SWE4.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 111.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 118.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 118.
 Package rerunfilecheck Info: File `"PZ_Resume_Fall2020 - SWE4".out' has not chan
 ged.
 (rerunfilecheck)             Checksum: <no file>.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 111.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 118.
 )
 
 Here is how much of LuaTeX's memory you used:
@@ -545,7 +545,7 @@ Here is how much of LuaTeX's memory you used:
  416 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:558,3:154,4:59,5:206,6:55,7:3782,8:23,9:165,10:12,11:299
+   avail lists: 1:1,2:564,3:160,4:59,5:218,6:61,7:4100,8:24,9:175,10:12,11:321
  31111 multiletter control sequences out of 65536+200000
  49 fonts using 5623931 bytes
  44i,5n,61p,344b,320s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -554,9 +554,9 @@ ogram files/miktex 2.9/fonts/opentype/public/lm/lmsans10-oblique.otf><c:/program
  files/miktex 2.9/fonts/opentype/public/lm/lmsans10-regular.otf><C:/Program File
 s/MiKTeX 2.9/fonts/opentype/public/fontawesome/fontawesome.otf><c:/program files
 /miktex 2.9/fonts/opentype/public/lm/lmsans10-bold.otf>
-Output written on PZ_Resume_Fall2020 - SWE4.pdf (1 page, 31360 bytes).
+Output written on PZ_Resume_Fall2020 - SWE4.pdf (1 page, 31731 bytes).
 
-PDF statistics: 64 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 65 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
