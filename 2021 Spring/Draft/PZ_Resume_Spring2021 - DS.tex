@@ -1,0 +1,113 @@
+\documentclass[11pt]{article}
+
+\usepackage{geometry}
+\usepackage{indentfirst}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{fontspec}
+\usepackage{fontawesome}
+\usepackage{bbding}
+
+\pagestyle{empty}
+\geometry{margin=0.5in}
+\setlength\parindent{9pt}
+\setlist{nosep}
+\renewcommand\labelitemi{--}
+
+\definecolor{highlight}{RGB}{45, 85, 180}
+
+\newcommand{\name}[1]{\begin{center}\section*{\huge \color{highlight} #1}\vspace{-0.5cm}\end{center}}
+\newcommand{\topinfo}[1]{\begin{center}\vspace{-0.2cm}#1\vspace{-0.2cm}\end{center}}
+\newcommand{\resumesection}[1]{\vspace{-0.6cm}\section*{\color{highlight}#1}\vspace{-0.3cm}\hrule\vspace{0.2cm}}
+
+\renewcommand{\familydefault}{\sfdefault}
+
+\begin{document}
+
+\name{Peter Zhang}
+\topinfo{\faHome \ 15429 Indianola Drive, Derwood, MD 20855, USA}
+\topinfo{\href{mailto:petez@berkeley.edu}{\faEnvelope \ petez@berkeley.edu} \ \faPhone \ (240) 994-2204 \ \href{https://peterzhang.info/}{\faBriefcase \ peterzhang.info} \  \href{https://github.com/petezh}{\faGithub \ petezh} \  \href{https://www.linkedin.com/in/pjz/}{\faLinkedinSquare \ pjz}}
+
+\resumesection{Education}
+
+\textbf{University of California, Berkeley\hfill Berkeley, CA} \par
+\textit{Computer Science and Economics B.A.}; 4.00 Cumulative GPA \hfill Class of 2023\par
+Coursework: Data Science, Data Structures, Probability, Statistics, Linear Algebra, Macroeconomics, Microeconomics\par
+Activities: Voyager Consulting, Debate Society of Berkeley, Computer Science Mentors, Berkeley Economic Review
+
+\resumesection{Skills}
+
+\textbf{Languages} Python, R, Java, SQL Lite/MySQL, HTML/CSS/JavaScript, MATLAB, \LaTeX \par
+\textbf{Tools} Git/Terminal, Azure/AWS, VSCode/IntelliJ/Android Studio, WordPress, Electron, Shiny
+
+\resumesection{Experience}
+
+\textbf{Voyager Consulting \hfill Berkeley, CA}\par
+
+\textit{Monster Energy Consultant} \hfill Sep 2020--Dec 2020
+\begin{itemize}
+	\item Quantified consumer interest in 55 product categories from scraped social media and Google Trends data
+	\item Forecasted demand from 4.5M rows of CPG sales data to suggest product development and launch strategies
+\end{itemize}\par
+
+\textbf{National Institute of Standards and Technology \hfill Gaithersburg, MD}\par
+
+\textit{Research Assistant} \hfill May 2020--Sep 2020
+\begin{itemize}
+	\item Annotated 50+ papers on resilience planning to find trends in how co-benefits are treated in benefit-cost analysis
+	\item Published \href{https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1260.pdf}{user manual} and case study for Edge\$, an online decision-making software for resilience projects
+\end{itemize}\par
+
+\textbf{National Cancer Institute \hfill Rockville, MD}\par
+
+\textit{Research Assistant} \hfill Jul 2019--Apr 2020 \par
+\begin{itemize}
+	\item Scraped and reformatted 1 billion+ gene expression datapoints from drug trials to expedite user queries
+	\item Developed \href{https://github.com/petezh/TP-Workbench}{R Shiny app} for dynamic plotting/analysis and created an Electron-based MacOS deployable
+\end{itemize}\vspace{0.1cm}
+
+\textbf{National Institute of Standards and Technology \hfill Gaithersburg, MD}\par
+
+\textit{Summer Intern} \hfill Jun 2019--Aug 2019
+\begin{itemize}
+	\item Wrote Python scripts to preprocess corpora and construct subject-predicate-object tuples with NLTK/Gensim
+	\item \href{https://github.com/petezh/RR-NLP-Tools}{Improved} Latent Dirichlet Allocation topic modeling coherence by over 30\% using root-and-rule preprocessing
+\end{itemize}
+
+\textbf{Premier Debate America \hfill Remote} \par
+
+\textit{Product Manager}\hfill Dec 2018--Present
+\begin{itemize}
+	\item Oversee monthly publication of 200+ pages of topic research used freely by thousands of debaters nationwide
+	\item Design and maintain \href{https://www.premierdebate.com/briefs/}{premierdebate.com} using Wordpress and CSS/Javascript with 67,000 visitors in 2019
+\end{itemize}\vspace{0.1cm}
+
+\resumesection{Projects}
+
+\textbf{\href{https://github.com/petezh/E-Debate}{Debate Analysis}} \hfill Sep 2020--Present\par
+\begin{itemize}
+	\item Scraped 200k+ outcomes from debate tournaments and 25k+ publicly posted debate cases
+	\item Published trends in tournament attendance, competitor composition, argument styles, and more
+\end{itemize}\vspace{0.1cm} \par
+
+\textbf{\href{https://github.com/gautomdas/IMMC-World4/blob/master/US-9365.pdf}{World4}} \hfill Apr 2019\par
+\begin{itemize}
+	\item Carrying capacity model based on Spearman correlation and regression of 20+ environmental indicators
+	\item Awarded Top 6 in the US in the International Mathematics Modeling Competition for rigor and innovation
+\end{itemize}\vspace{0.1cm} \par
+
+\textbf{\href{https://github.com/gautomdas/eye-coach}{Eye Coach}} \hfill Jan 2019 \par
+\begin{itemize}
+	\item iOS app built with augmented reality and Haar cascades to help people with autism train eye contact
+	\item Built in 24 hours at Hack Pennsylvania, winning best-in-show among 100+ other participants
+\end{itemize}\vspace{0.1cm} \par
+
+\resumesection{Awards}
+
+UC Berkeley Leadership Award; Recipient \hfill Jul 2020 \par
+National Speech and Debate Tournament; 6th Place \hfill Jun 2020 \par
+USA Computing Olympiad; Platinum Division \hfill Apr 2020 \par
+American Regions Mathematics League; 8th Place \hfill Jun 2019 \par
+
+\end{document}
