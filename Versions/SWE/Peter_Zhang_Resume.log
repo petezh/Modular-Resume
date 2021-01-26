@@ -1,7 +1,7 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7350 64-bit)  (format=lualatex 2020.11.6)  12 JAN 2021 22:01
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7350 64-bit)  (format=lualatex 2020.11.6)  24 JAN 2021 15:56
  restricted system commands enabled.
-**"PZ_Resume_Spring2021 - SWE.tex"
-("./PZ_Resume_Spring2021 - SWE.tex"
+**Peter_Zhang_Resume.tex
+(./Peter_Zhang_Resume.tex
 LaTeX2e <2020-02-02> patch level 5
 Lua module: luaotfload-main 2020-02-02 3.12 luaotfload entry point
 Lua module: luaotfload-init 2020-02-02 3.12 luaotfload submodule / initializatio
@@ -359,8 +359,8 @@ Package fontspec Info: Font family 'FontAwesome(0)' created for font
 .tex")) ("C:/Program Files/MiKTeX 2.9/tex/latex/bbding/bbding.sty"
 Package: bbding 1999/04/15 v1.01 Dingbats symbols
 )
-("./PZ_Resume_Spring2021 - SWE.aux")
-\openout1 = PZ_Resume_Spring2021 - SWE.aux
+(./Peter_Zhang_Resume.aux)
+\openout1 = Peter_Zhang_Resume.aux
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 26.
 LaTeX Font Info:    ... okay on input line 26.
@@ -454,10 +454,10 @@ LaTeX Info: Redefining \ref on input line 26.
 LaTeX Info: Redefining \pageref on input line 26.
 LaTeX Info: Redefining \nameref on input line 26.
 
-("./PZ_Resume_Spring2021 - SWE.out") ("./PZ_Resume_Spring2021 - SWE.out")
+(./Peter_Zhang_Resume.out) (./Peter_Zhang_Resume.out)
 \@outlinefile=\write3
 
-\openout3 = PZ_Resume_Spring2021 - SWE.out
+\openout3 = Peter_Zhang_Resume.out
 
 Package fontspec Info: Adjusting the maths setup (use [no-math] to avoid
 (fontspec)             this).
@@ -523,20 +523,17 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 41.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 41.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 114.
-
-[1
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 112.
+ [1
 
 {C:/Users/thepe/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 114.
-
-("./PZ_Resume_Spring2021 - SWE.aux")
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 114.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 114.
-Package rerunfilecheck Info: File `"PZ_Resume_Spring2021 - SWE".out' has not cha
-nged.
-(rerunfilecheck)             Checksum: <no file>.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 114.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 112.
+ (./Peter_Zhang_Resume.aux)
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 112.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 112.
+Package rerunfilecheck Info: File `Peter_Zhang_Resume.out' has not changed.
+(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 112.
 )
 
 Here is how much of LuaTeX's memory you used:
@@ -545,18 +542,18 @@ Here is how much of LuaTeX's memory you used:
  416 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:530,3:149,4:55,5:201,6:57,7:3815,8:22,9:167,10:12,11:306
+   avail lists: 1:1,2:556,3:155,4:57,5:204,6:60,7:3921,8:25,9:169,10:12,11:317
  31111 multiletter control sequences out of 65536+200000
  49 fonts using 5623931 bytes
- 44i,5n,61p,345b,320s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 44i,5n,61p,335b,320s stack positions out of 5000i,500n,10000p,200000b,50000s
 <c:/program files/miktex 2.9/fonts/opentype/public/lm/lmsans8-regular.otf><c:/pr
 ogram files/miktex 2.9/fonts/opentype/public/lm/lmsans10-oblique.otf><c:/program
  files/miktex 2.9/fonts/opentype/public/lm/lmsans10-regular.otf><C:/Program File
 s/MiKTeX 2.9/fonts/opentype/public/fontawesome/fontawesome.otf><c:/program files
 /miktex 2.9/fonts/opentype/public/lm/lmsans10-bold.otf>
-Output written on PZ_Resume_Spring2021 - SWE.pdf (1 page, 30810 bytes).
+Output written on Peter_Zhang_Resume.pdf (1 page, 31924 bytes).
 
-PDF statistics: 63 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 66 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
