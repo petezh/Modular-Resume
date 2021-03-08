@@ -2,7 +2,7 @@
 
 #### Resumes
 
-Here are the versions of my resume and their associated Latex templates. They are categorized by general industry (SWE = software engineering, DS = data science, VC = venture capital). Folders are helpful for separating different versions, and GitHub lets me easily keep track of all past versions without cluttering up the repo.
+Here are the versions of my resume and their associated Latex templates. They are categorized by general industry (SWE = software engineering, DS = data science). Folders are helpful for separating different versions, and GitHub lets me easily keep track of all past versions without cluttering up the repo.
 
 #### Template
 
