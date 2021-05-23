@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7350 64-bit)  (format=lualatex 2020.11.6)  15 MAR 2021 19:30
+This is LuaHBTeX, Version 1.12.0 (MiKTeX 2.9.7350 64-bit)  (format=lualatex 2020.11.6)  20 MAY 2021 13:30
  restricted system commands enabled.
 **Peter_Zhang_Resume.tex
 (./Peter_Zhang_Resume.tex
@@ -518,22 +518,22 @@ LaTeX Font Info:    Overwriting math alphabet `\mathtt' in version `bold'
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `TU/lmss/m/sl' tried instead on input line 35.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 100.
+(Font)              <10.95> on input line 105.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 100.
+(Font)              <8> on input line 105.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 100.
-Package atveryend Info: Empty hook `BeforeClearDocument' on input line 111.
+(Font)              <6> on input line 105.
+Package atveryend Info: Empty hook `BeforeClearDocument' on input line 116.
  [1
 
 {C:/Users/thepe/AppData/Local/MiKTeX/2.9/pdftex/config/pdftex.map}]
-Package atveryend Info: Empty hook `AfterLastShipout' on input line 111.
+Package atveryend Info: Empty hook `AfterLastShipout' on input line 116.
  (./Peter_Zhang_Resume.aux)
-Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 111.
-Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 111.
+Package atveryend Info: Executing hook `AtVeryEndDocument' on input line 116.
+Package atveryend Info: Executing hook `AtEndAfterFileList' on input line 116.
 Package rerunfilecheck Info: File `Peter_Zhang_Resume.out' has not changed.
 (rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
-Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 111.
+Package atveryend Info: Empty hook `AtVeryVeryEnd' on input line 116.
 )
 
 Here is how much of LuaTeX's memory you used:
@@ -542,7 +542,7 @@ Here is how much of LuaTeX's memory you used:
  416 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:522,3:145,4:53,5:201,6:57,7:3776,8:22,9:165,10:12,11:304
+   avail lists: 1:1,2:556,3:153,4:55,5:218,6:61,7:4038,8:24,9:171,10:12,11:336
  31111 multiletter control sequences out of 65536+200000
  49 fonts using 5623931 bytes
  44i,5n,61p,335b,320s stack positions out of 5000i,500n,10000p,200000b,50000s
@@ -551,9 +551,9 @@ ogram files/miktex 2.9/fonts/opentype/public/lm/lmsans10-oblique.otf><c:/program
  files/miktex 2.9/fonts/opentype/public/lm/lmsans10-regular.otf><C:/Program File
 s/MiKTeX 2.9/fonts/opentype/public/fontawesome/fontawesome.otf><c:/program files
 /miktex 2.9/fonts/opentype/public/lm/lmsans10-bold.otf>
-Output written on Peter_Zhang_Resume.pdf (1 page, 31176 bytes).
+Output written on Peter_Zhang_Resume.pdf (1 page, 32373 bytes).
 
-PDF statistics: 63 PDF objects out of 1000 (max. 8388607)
+PDF statistics: 65 PDF objects out of 1000 (max. 8388607)
  8 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
