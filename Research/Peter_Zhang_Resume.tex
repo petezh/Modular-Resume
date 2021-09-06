@@ -1,0 +1,113 @@
+\documentclass[11pt]{article}
+
+\usepackage{geometry}
+\usepackage{indentfirst}
+\usepackage{enumitem}
+\usepackage{xcolor}
+\usepackage{hyperref}
+\usepackage{fontspec}
+\usepackage{fontawesome}
+\usepackage{bbding}
+
+\pagestyle{empty}
+\geometry{margin=0.5in}
+\setlength\parindent{9pt}
+\setlist{nosep}
+\renewcommand\labelitemi{--}
+
+\definecolor{highlight}{RGB}{45, 85, 180}
+
+\newcommand{\name}[1]{\begin{center}\section*{\huge \color{highlight} #1}\vspace{-0.5cm}\end{center}}
+\newcommand{\topinfo}[1]{\begin{center}\vspace{-0.2cm}#1\vspace{-0.2cm}\end{center}}
+\newcommand{\resumesection}[1]{\vspace{-0.6cm}\section*{\color{highlight}#1}\vspace{-0.3cm}\hrule\vspace{0.2cm}}
+
+\renewcommand{\familydefault}{\sfdefault}
+
+\begin{document}
+
+\name{Peter Zhang}
+\topinfo{\faHome \ 15429 Indianola Drive, Derwood, MD 20855, USA}
+\topinfo{\href{mailto:petez@berkeley.edu}{\faEnvelope \ petez@berkeley.edu} \ \faPhone \ (240) 994-2204 \ \href{https://peterzhang.info/}{\faBriefcase \ peterzhang.info} \  \href{https://github.com/petezh}{\faGithub \ petezh} \  \href{https://www.linkedin.com/in/pjz/}{\faLinkedinSquare \ pjz}}
+
+\resumesection{Education}
+
+\textbf{University of California, Berkeley\hfill Berkeley, CA} \par
+\textit{Computer Science \& Economics B.A.}; 3.97 GPA \hfill 2020--2023\par
+\textbf{Coursework:} Data Structures/Algorithms, Data Science, Artifical Intelligence, Discrete Math, Statistics/Probability\par
+\textbf{Activities:} Voyager Consulting, The Daily Californian, Debate Society of Berkeley, Computer Science Mentors, UPE
+
+\resumesection{Skills}
+
+\textbf{Languages:} Python, Java/Typescript, R, SQL, HTML/CSS, JavaScript/React, \LaTeX, Stata, VBA, MATLAB \par
+\textbf{Tools:} Git/Terminal, Azure/AWS, VSCode/IntelliJ/Android Studio, WordPress, Electron, Qualtrics
+\resumesection{Experience}
+
+\textbf{Amazon Web Services \hfill Arlington, VA}\par
+
+\textit{Software Development Engineer Intern} \hfill Jun 2021--Aug 2021
+\begin{itemize}
+	\item Design and develop a scalable, serverless tool to notify customers of service issues with a flexible API and CLI
+	\item Rapidly test and iterate in an agile workflow, using Java/Typescript and AWS services (CDK/SQS/Lambda)
+\end{itemize}\par
+
+\textbf{Center for Effective Global Action \hfill Berkeley, CA}\par
+
+\textit{Research Apprentice} \hfill Jan 2021--May 2021
+\begin{itemize}
+	\item Developed and streamlined R Shiny applications and markdown notebooks to showcase Open Policy Analysis
+	\item Assessed and improved reproducibility for five papers using R, Stata, Python, and \LaTeX, working with authors
+\end{itemize}\par
+
+
+\textbf{National Institute of Standards and Technology \hfill Gaithersburg, MD}\par
+
+\textit{Economics Research Intern} \hfill May 2020--Sep 2020
+\begin{itemize}
+	\item Annotated 50+ papers on resilience planning to find trends in how co-benefits are treated in benefit-cost analysis
+	\item Published \href{https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.1260.pdf}{user manual} and case study for Edge\$, an online decision-making software for resilience projects
+\end{itemize}\par
+
+
+\textit{NLP Research Intern} \hfill Jun 2019--Aug 2019
+\begin{itemize}
+	\item Wrote Python scripts to preprocess corpora and construct subject-predicate-object tuples with NLTK/Gensim
+	\item Improved Latent Dirichlet Allocation topic modeling using root-and-rule preprocessing in \href{https://github.com/petezh/RR-NLP-Tools}{Jupyter Notebook trials}
+\end{itemize}\par
+
+\textbf{National Cancer Institute \hfill Rockville, MD}\par
+
+\textit{Research Assistant} \hfill Jul 2019--Apr 2020 \par
+\begin{itemize}
+	\item Scraped and reformatted over 1 billion gene expression datapoints from drug trials for efficient user query
+	\item Developed \href{https://github.com/petezh/TP-Workbench}{R Shiny app} for dynamic plotting/analysis with one-click, Electron deployable, pending publication
+\end{itemize}\par
+
+\resumesection{Projects}
+
+\textbf{\href{https://github.com/petezh/E-Debate}{Debate Analysis}} \hfill Sep 2020--Feb 2021\par
+\begin{itemize}
+	\item Scraped 200k+ outcomes from debate tournaments and 5k+ online debate cases with BSoup/Selenium
+	\item Published articles detailing the \href{https://www.vbriefly.com/2020/12/31/five-trends-among-e-debate-competitors-by-peter-zhang/}{impact of transitioning to online debate} and \href{https://www.vbriefly.com/2021/01/22/disclosure-in-numbers-by-peter-zhang/}{rates of public case disclosure}
+\end{itemize}\vspace{0.1cm} \par
+
+\textbf{\href{https://github.com/gautomdas/IMMC-World4/blob/master/US-9365.pdf}{World4}} \hfill Apr 2019\par
+\begin{itemize}
+	\item Carrying capacity model based on Spearman correlation and regression of 20+ environmental indicators
+	\item Awarded Top 6 in the US in the International Mathematics Modeling Competition for rigor and innovation
+\end{itemize}\vspace{0.1cm} \par
+
+\textbf{\href{https://github.com/gautomdas/eye-coach}{Eye Coach}} \hfill Jan 2019 \par
+\begin{itemize}
+	\item iOS app built with augmented reality and Haar cascades to help people with autism train eye contact
+	\item Built in 24 hours at Hack Pennsylvania, winning best-in-show among 100+ other participants
+\end{itemize}\vspace{0.1cm} \par
+
+\resumesection{Awards}
+
+Venture Capital Investment Competition; National Finalist \hfill Feb 2021\par
+UC Berkeley Leadership Award; Recipient \hfill Jul 2020 \par
+National Speech and Debate Tournament; 6th Place \hfill Jun 2020 \par
+USA Computing Olympiad; Platinum Division \hfill Apr 2020 \par
+International Mathematics Modeling Competition; U.S. Finalist \hfill May 2019\par
+
+\end{document}
