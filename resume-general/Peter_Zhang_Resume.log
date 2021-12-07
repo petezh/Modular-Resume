@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.9.5)  6 DEC 2021 21:29
+This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.9.5)  6 DEC 2021 21:40
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Peter_Zhang_Resume.tex
@@ -532,14 +532,14 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 ) (../components/experiences/voyager.tex)
 (../components/experiences/nci.tex) (../components/experiences/nist-aeo.tex)
 (../components/projects/debate.tex) (../components/projects/covid.tex)
-(../components/../components/skills.tex)
-(../components/../components/awards.tex) [1
+(../components/../components/skills.tex) (../components/awards/awards-gen.tex)
+[1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}</tmp/lua_
-4b9Lzt></tmp/lua_DIgmQQ></tmp/lua_7A1oWn></tmp/lua_HSuMKj></tmp/lua_SEexOA></tmp
-/lua_TFS1Na></tmp/lua_rDX9wG></tmp/lua_LSR18Y></tmp/lua_z3IL1L></tmp/lua_ZAsWK5>
-</tmp/lua_USCf8I></tmp/lua_dVF2dY></tmp/lua_DuoMuY></tmp/lua_e1FI9K>] (./Peter_
-Zhang_Resume.aux)
+iemJsr></tmp/lua_W0ikyb></tmp/lua_2rthYK></tmp/lua_ecJwA2></tmp/lua_DiYWfF></tmp
+/lua_EQ2MYy></tmp/lua_ojrv7N></tmp/lua_oBnYD5></tmp/lua_T1h6Hf></tmp/lua_vGCyKr>
+</tmp/lua_YGyWEx></tmp/lua_xxG7ea></tmp/lua_bMIq3i></tmp/lua_cMjN1A>]
+(./Peter_Zhang_Resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -548,12 +548,12 @@ Package rerunfilecheck Info: File `Peter_Zhang_Resume.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 17570 strings out of 478531
+ 17573 strings out of 478531
  100000,662416 words of node,token memory allocated
  416 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:674,3:299,4:110,5:437,6:108,7:8447,8:44,9:338,10:14,11:680
+   avail lists: 1:1,2:686,3:303,4:110,5:443,6:110,7:8447,8:48,9:338,10:14,11:672
 
  36962 multiletter control sequences out of 65536+600000
  50 fonts using 8001399 bytes
@@ -563,10 +563,10 @@ Here is how much of LuaTeX's memory you used:
 tf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmsans10-regular
 .otf></System/Library/Fonts/Apple Color Emoji.ttc></usr/local/texlive/2021/texmf
 -dist/fonts/opentype/public/lm/lmsans10-bold.otf>
-Output written on Peter_Zhang_Resume.pdf (1 page, 413695 bytes).
+Output written on Peter_Zhang_Resume.pdf (1 page, 413783 bytes).
 
-PDF statistics: 95 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+PDF statistics: 97 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  8 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
