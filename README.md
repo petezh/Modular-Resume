@@ -2,7 +2,11 @@
 
 ## What is it?
 
-The **ModuLatex resume** is a component-based Latex template optimized for people who need multiple versions of resumes. Some advantages over your run-of-the-mill template include:
+The **ModuLatex resume** is a component-based Latex template optimized for people who need multiple versions of resumes.
+
+Check out [an example](https://peterzhang.info/files/resume.pdf). 👈
+
+Some advantages over your run-of-the-mill template include:
 
 - Easily make multiple versions of your resume by important different components.
 - A sleek design with pretty emojis. 😌
