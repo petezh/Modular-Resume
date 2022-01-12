@@ -4,7 +4,11 @@
 
 The **ModuLatex resume** is a component-based Latex template optimized for people who need multiple versions of resumes.
 
-Check out [an example](https://peterzhang.info/files/resume.pdf). 👈
+👉 Check out [an example](https://github.com/petezh/ModuLatex-Resume/blob/master/resume-general/Peter_Zhang_Resume.pdf)
+
+🍃 Get it on [OverLeaf](https://www.overleaf.com/project/61c8bca6ea9d23cacaf0e8d0)
+
+👇 Why you should get it
 
 Some advantages over your run-of-the-mill template include:
 
