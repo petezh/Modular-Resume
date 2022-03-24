@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.9.5)  20 FEB 2022 16:38
+This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.9.5)  24 MAR 2022 17:33
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Peter_Zhang_Resume.tex
@@ -522,24 +522,17 @@ LaTeX Font Warning: Font shape `TU/AppleColorEmoji(0)/bx/n' undefined
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `TU/lmss/m/sl' tried instead on input line 2.
 ) (../components/experiences/sig.tex)
-(../components/experiences/uber-eats.tex) (../components/experiences/aws.tex)
-(../components/experiences/cega.tex
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 6.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 6.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 6.
-) (../components/experiences/voyager.tex)
+(../components/experiences/bair.tex) (../components/experiences/uber-eats.tex)
+(../components/experiences/aws.tex) (../components/experiences/voyager.tex)
 (../components/experiences/voyager-gates.tex)
 (../components/experiences/nci.tex) (../components/experiences/premier.tex)
 (../components/../components/skills.tex) (../components/awards/awards-gen.tex)
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}</tmp/lua_
-U9XAQE></tmp/lua_yHU000></tmp/lua_W2Uije></tmp/lua_9hLm70></tmp/lua_UFyAPm></tmp
-/lua_bgGcdr></tmp/lua_FdBHEU></tmp/lua_kvm3sN></tmp/lua_QWzksa></tmp/lua_cd8eLw>
-</tmp/lua_HB0CbB>] (./Peter_Zhang_Resume.aux)
+Kddxo1></tmp/lua_SbunTv></tmp/lua_4A9Vax></tmp/lua_wGoHgX></tmp/lua_fU92Fy></tmp
+/lua_eT10kp></tmp/lua_xSI8hn></tmp/lua_oXfp6r></tmp/lua_P97pZm></tmp/lua_esRrOR>
+</tmp/lua_kAwkyJ>] (./Peter_Zhang_Resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
 
@@ -548,26 +541,25 @@ Package rerunfilecheck Info: File `Peter_Zhang_Resume.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 17590 strings out of 478531
+ 17575 strings out of 478531
  100000,662416 words of node,token memory allocated
  416 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:656,3:291,4:118,5:468,6:110,7:8558,8:38,9:338,10:12,11:661
+   avail lists: 1:1,2:650,3:293,4:118,5:450,6:111,7:8642,8:40,9:332,10:12,11:679
 
- 36968 multiletter control sequences out of 65536+600000
- 51 fonts using 8107327 bytes
+ 36953 multiletter control sequences out of 65536+600000
+ 38 fonts using 7090255 bytes
  96i,5n,98p,420b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
-</usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmsans8-regular.otf
-></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmsans10-oblique.o
-tf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/fontawesome/FontAwe
-some.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmsans10-r
-egular.otf></System/Library/Fonts/Apple Color Emoji.ttc></usr/local/texlive/2021
-/texmf-dist/fonts/opentype/public/lm/lmsans10-bold.otf>
-Output written on Peter_Zhang_Resume.pdf (1 page, 337719 bytes).
+</usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmsans10-oblique.ot
+f></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/fontawesome/FontAwes
+ome.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmsans10-re
+gular.otf></System/Library/Fonts/Apple Color Emoji.ttc></usr/local/texlive/2021/
+texmf-dist/fonts/opentype/public/lm/lmsans10-bold.otf>
+Output written on Peter_Zhang_Resume.pdf (1 page, 336912 bytes).
 
-PDF statistics: 93 PDF objects out of 1000 (max. 8388607)
- 49 compressed objects within 1 object stream
+PDF statistics: 87 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
  7 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
