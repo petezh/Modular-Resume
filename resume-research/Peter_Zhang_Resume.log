@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.9.5)  1 MAY 2022 21:35
+This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.9.5)  5 MAY 2022 13:40
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Peter_Zhang_Resume.tex
@@ -521,8 +521,9 @@ LaTeX Font Warning: Font shape `TU/AppleColorEmoji(0)/bx/n' undefined
 (../components/education/berkeley.tex
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `TU/lmss/m/sl' tried instead on input line 2.
-) (../components/experiences/sig.tex)
-(../components/experiences/bair.tex) (../components/experiences/malmendier.tex) (../components/experiences/uber-eats.tex) (../components/experiences/aws.tex)
+) (../components/experiences/bair.tex)
+(../components/experiences/malmendier.tex)
+(../components/experiences/uber-eats.tex) (../components/experiences/aws.tex)
 (../components/experiences/cega.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 6.
@@ -530,13 +531,13 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <8> on input line 6.
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <6> on input line 6.
-) (../components/experiences/nci.tex)
-(../components/experiences/nist-aeo.tex)
+) (../components/experiences/nist-aeo.tex)
+(../components/experiences/nci.tex) (../components/experiences/nist-mml.tex)
 (../components/../components/skills.tex) (../components/awards/awards-stem.tex) [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}</tmp/lua_
-2S8Lkh></tmp/lua_CyuJbc></tmp/lua_YOVDIZ></tmp/lua_S8ADJk></tmp/lua_x1tVcb></tmp
-/lua_bMMBB5></tmp/lua_4IpiGQ></tmp/lua_UZqEkZ></tmp/lua_PsyLLr>]
+KxrnHT></tmp/lua_IoUrKL></tmp/lua_clzQEp></tmp/lua_nmIz4y></tmp/lua_yRxqPh></tmp
+/lua_NG20Ts></tmp/lua_tCZom0></tmp/lua_4R8IjM></tmp/lua_b4o2A8>]
 (./Peter_Zhang_Resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -551,7 +552,7 @@ Here is how much of LuaTeX's memory you used:
  416 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:604,3:261,4:106,5:444,6:101,7:7760,8:36,9:318,10:12,11:594
+   avail lists: 1:1,2:646,3:283,4:114,5:486,6:107,7:8274,8:40,9:334,10:12,11:628
 
  36968 multiletter control sequences out of 65536+600000
  51 fonts using 8107327 bytes
@@ -562,10 +563,10 @@ tf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/fontawesome/FontAwe
 some.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmsans10-r
 egular.otf></System/Library/Fonts/Apple Color Emoji.ttc></usr/local/texlive/2021
 /texmf-dist/fonts/opentype/public/lm/lmsans10-bold.otf>
-Output written on Peter_Zhang_Resume.pdf (1 page, 281422 bytes).
+Output written on Peter_Zhang_Resume.pdf (1 page, 281522 bytes).
 
-PDF statistics: 88 PDF objects out of 1000 (max. 8388607)
- 48 compressed objects within 1 object stream
+PDF statistics: 90 PDF objects out of 1000 (max. 8388607)
+ 50 compressed objects within 1 object stream
  7 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
