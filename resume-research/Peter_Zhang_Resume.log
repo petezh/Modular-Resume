@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.9.5)  5 MAY 2022 13:40
+This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.9.5)  8 MAY 2022 01:18
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Peter_Zhang_Resume.tex
@@ -536,8 +536,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 (../components/../components/skills.tex) (../components/awards/awards-stem.tex) [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}</tmp/lua_
-KxrnHT></tmp/lua_IoUrKL></tmp/lua_clzQEp></tmp/lua_nmIz4y></tmp/lua_yRxqPh></tmp
-/lua_NG20Ts></tmp/lua_tCZom0></tmp/lua_4R8IjM></tmp/lua_b4o2A8>]
+9rdGAV></tmp/lua_OnySYV></tmp/lua_ceUQHK></tmp/lua_Bi5Xej></tmp/lua_xScX2H></tmp
+/lua_an5NU1></tmp/lua_2k4hh6></tmp/lua_0WKfVf></tmp/lua_mDwNOp>]
 (./Peter_Zhang_Resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -552,7 +552,7 @@ Here is how much of LuaTeX's memory you used:
  416 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:646,3:283,4:114,5:486,6:107,7:8274,8:40,9:334,10:12,11:628
+   avail lists: 1:1,2:646,3:283,4:114,5:486,6:107,7:8290,8:40,9:334,10:12,11:632
 
  36968 multiletter control sequences out of 65536+600000
  51 fonts using 8107327 bytes
@@ -563,7 +563,7 @@ tf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/fontawesome/FontAwe
 some.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmsans10-r
 egular.otf></System/Library/Fonts/Apple Color Emoji.ttc></usr/local/texlive/2021
 /texmf-dist/fonts/opentype/public/lm/lmsans10-bold.otf>
-Output written on Peter_Zhang_Resume.pdf (1 page, 281522 bytes).
+Output written on Peter_Zhang_Resume.pdf (1 page, 281554 bytes).
 
 PDF statistics: 90 PDF objects out of 1000 (max. 8388607)
  50 compressed objects within 1 object stream
