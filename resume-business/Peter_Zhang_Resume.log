@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.9.5)  8 MAY 2022 01:18
+This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.9.5)  9 MAY 2022 21:50
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Peter_Zhang_Resume.tex
@@ -521,24 +521,25 @@ LaTeX Font Warning: Font shape `TU/AppleColorEmoji(0)/bx/n' undefined
 (../components/education/berkeley.tex
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `TU/lmss/m/sl' tried instead on input line 2.
-) (../components/experiences/uber-eats.tex) (../components/experiences/voyager.
-tex)
+) (../components/experiences/sig.tex)
+(../components/experiences/bair.tex) (../components/experiences/malmendier.tex) (../components/experiences/voyager.tex)
 (../components/experiences/voyager-gates.tex)
-(../components/experiences/aws.tex) (../components/experiences/cega.tex
+(../components/experiences/voyager-intel.tex)
+(../components/experiences/voyager-monster.tex)
+(../components/experiences/uber-eats.tex) (../components/experiences/aws.tex)
+(../components/experiences/bronx.tex) (../components/../components/skills.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 6.
+(Font)              <10.95> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 6.
+(Font)              <8> on input line 1.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 6.
+(Font)              <6> on input line 1.
 )
-(../components/experiences/nci.tex) (../components/experiences/nist-aeo.tex)
-(../components/../components/skills.tex)
 (../components/awards/awards-business.tex) [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}</tmp/lua_
-5QrPYV></tmp/lua_KvsPHY></tmp/lua_BeMYUU></tmp/lua_QizQIH></tmp/lua_u63cDQ></tmp
-/lua_ZuR0PK></tmp/lua_nmvYkK></tmp/lua_i1eeP8></tmp/lua_WeHG01>] (./Peter_Zhang
+u2IAyD></tmp/lua_bnsiie></tmp/lua_umHbuk></tmp/lua_qheHrf></tmp/lua_j0NFsL></tmp
+/lua_VD6SwX></tmp/lua_2UPokF></tmp/lua_ttHoel></tmp/lua_XUQ0Xa>] (./Peter_Zhang
 _Resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -548,26 +549,26 @@ Package rerunfilecheck Info: File `Peter_Zhang_Resume.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 17577 strings out of 478531
+ 17616 strings out of 478531
  100000,662416 words of node,token memory allocated
  416 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:642,3:283,4:114,5:450,6:106,7:8134,8:42,9:330,10:12,11:627
+   avail lists: 1:1,2:614,3:277,4:114,5:450,6:105,7:8244,8:32,9:332,10:12,11:647
 
- 36967 multiletter control sequences out of 65536+600000
+ 36970 multiletter control sequences out of 65536+600000
  51 fonts using 8107327 bytes
- 96i,5n,98p,420b,331s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 96i,5n,98p,420b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmsans8-regular.otf
 ></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmsans10-oblique.o
 tf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/fontawesome/FontAwe
 some.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmsans10-r
 egular.otf></System/Library/Fonts/Apple Color Emoji.ttc></usr/local/texlive/2021
 /texmf-dist/fonts/opentype/public/lm/lmsans10-bold.otf>
-Output written on Peter_Zhang_Resume.pdf (1 page, 281413 bytes).
+Output written on Peter_Zhang_Resume.pdf (1 page, 281105 bytes).
 
-PDF statistics: 91 PDF objects out of 1000 (max. 8388607)
- 51 compressed objects within 1 object stream
+PDF statistics: 86 PDF objects out of 1000 (max. 8388607)
+ 46 compressed objects within 1 object stream
  7 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
