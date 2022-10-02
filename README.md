@@ -23,6 +23,8 @@ Some advantages over your run-of-the-mill template include:
 
 Be sure to use **LuaLaTeX** if you plan on using the emojis. Otherwise, you can take them out and use any Latex typesetting system. To set it up for yourself, add your background, skills, experiences, projects, education, and awards to separate `.tex` files in the `components` folder. Make a folder for your resume in the root directory and compile! If you move around the main file, be sure to update the file paths.
 
+Want to make a new version or fix a bug? Please fork the repo or make a pull-request!
+
 ## Have a question?
 
 Feel free to reach out to me on [Facebook](https://www.facebook.com/petejzh/) or at [petez@berkeley.edu](mailto:petez@berkeley.edu) for questions!
