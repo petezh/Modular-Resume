@@ -1,8 +1,8 @@
-# ModuLatex Resume
+# Modular Resume
 
 ## What is it?
 
-The **ModuLatex resume** is a component-based Latex template optimized for people who need multiple versions of resumes.
+This modular is a component-based Latex template optimized for people who need multiple versions of their resumes.
 
 👉 Check out [an example](https://github.com/petezh/ModuLatex-Resume/blob/master/resume-general/Peter_Zhang_Resume.pdf)
 
