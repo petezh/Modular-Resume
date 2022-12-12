@@ -1,8 +1,8 @@
-# ModuLatex Resume
+# Modular Resume
 
 ## What is it?
 
-The **ModuLatex resume** is a component-based Latex template optimized for people who need multiple versions of resumes.
+This modular is a component-based Latex template optimized for people who need multiple versions of their resumes.
 
 👉 Check out [an example](https://github.com/petezh/ModuLatex-Resume/blob/master/resume-general/Peter_Zhang_Resume.pdf)
 
@@ -22,6 +22,8 @@ Some advantages over your run-of-the-mill template include:
 ## How do I use it?
 
 Be sure to use **LuaLaTeX** if you plan on using the emojis. Otherwise, you can take them out and use any Latex typesetting system. To set it up for yourself, add your background, skills, experiences, projects, education, and awards to separate `.tex` files in the `components` folder. Make a folder for your resume in the root directory and compile! If you move around the main file, be sure to update the file paths.
+
+Want to make a new version or fix a bug? Please fork the repo or make a pull-request!
 
 ## Have a question?
 
