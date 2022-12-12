@@ -1,4 +1,4 @@
-This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.9.5)  14 AUG 2022 22:04
+This is LuaHBTeX, Version 1.13.0 (TeX Live 2021)  (format=lualatex 2021.9.5)  17 NOV 2022 22:52
  restricted system commands enabled.
  file:line:error style messages enabled.
 **Peter_Zhang_Resume.tex
@@ -522,10 +522,9 @@ LaTeX Font Warning: Font shape `TU/AppleColorEmoji(0)/bx/n' undefined
 LaTeX Font Info:    Font shape `TU/lmss/m/it' in size <10.95> not available
 (Font)              Font shape `TU/lmss/m/sl' tried instead on input line 2.
 ) (../components/experiences/sig.tex)
-(../components/experiences/bair.tex) (../components/experiences/malmendier.tex) (../components/experiences/voyager.tex)
-(../components/experiences/voyager-gates.tex)
-(../components/experiences/uber-eats.tex) (../components/experiences/aws.tex)
+(../components/experiences/bair.tex) (../components/experiences/malmendier.tex) (../components/experiences/gates.tex) (../components/experiences/aws.tex)
 (../components/experiences/nci.tex) (../components/experiences/bronx.tex)
+(../components/experiences/nist-aeo.tex)
 (../components/../components/skills.tex
 LaTeX Font Info:    External font `cmex10' loaded for size
 (Font)              <10.95> on input line 1.
@@ -537,8 +536,8 @@ LaTeX Font Info:    External font `cmex10' loaded for size
 [1
 
 {/usr/local/texlive/2021/texmf-var/fonts/map/pdftex/updmap/pdftex.map}</tmp/lua_
-ZrTgv7></tmp/lua_9qIGhb></tmp/lua_qARnWM></tmp/lua_r8qMkl></tmp/lua_ZwoAgX></tmp
-/lua_WUGVFM></tmp/lua_dxkYmu></tmp/lua_LSEpis></tmp/lua_f8TSbR>]
+cDdY66></tmp/lua_S0n8SB></tmp/lua_xhGufI></tmp/lua_SF41cX></tmp/lua_KzpRCK></tmp
+/lua_HOgc0x></tmp/lua_bEkEq6></tmp/lua_6geoWb></tmp/lua_zMRtAl>]
 (./Peter_Zhang_Resume.aux)
 
 LaTeX Font Warning: Some font shapes were not available, defaults substituted.
@@ -548,14 +547,14 @@ Package rerunfilecheck Info: File `Peter_Zhang_Resume.out' has not changed.
 )
 
 Here is how much of LuaTeX's memory you used:
- 17603 strings out of 478531
+ 17590 strings out of 478531
  100000,662416 words of node,token memory allocated
  416 words of node memory still in use:
    3 hlist, 1 vlist, 1 rule, 2 glue, 3 kern, 1 glyph, 4 attribute, 50 glue_spec,
  4 attribute_list, 1 write nodes
-   avail lists: 1:1,2:618,3:277,4:114,5:432,6:104,7:8234,8:34,9:328,10:12,11:649
+   avail lists: 1:1,2:622,3:279,4:114,5:446,6:105,7:8434,8:36,9:328,10:12,11:655
 
- 36969 multiletter control sequences out of 65536+600000
+ 36968 multiletter control sequences out of 65536+600000
  51 fonts using 8107327 bytes
  96i,5n,98p,420b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
 </usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmsans8-regular.otf
@@ -564,10 +563,10 @@ tf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/fontawesome/FontAwe
 some.otf></usr/local/texlive/2021/texmf-dist/fonts/opentype/public/lm/lmsans10-r
 egular.otf></System/Library/Fonts/Apple Color Emoji.ttc></usr/local/texlive/2021
 /texmf-dist/fonts/opentype/public/lm/lmsans10-bold.otf>
-Output written on Peter_Zhang_Resume.pdf (1 page, 281725 bytes).
+Output written on Peter_Zhang_Resume.pdf (1 page, 281700 bytes).
 
-PDF statistics: 87 PDF objects out of 1000 (max. 8388607)
- 47 compressed objects within 1 object stream
+PDF statistics: 88 PDF objects out of 1000 (max. 8388607)
+ 48 compressed objects within 1 object stream
  7 named destinations out of 1000 (max. 131072)
  1 words of extra memory for PDF output out of 10000 (max. 100000000)
 
