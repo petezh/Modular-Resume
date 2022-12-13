@@ -4,7 +4,9 @@
 
 This modular is a component-based Latex template optimized for people who need multiple versions of their resumes.
 
-👉 Check out [an example](/resume-general/Peter_Zhang_Resume.pdf)
+👀 Check out [an example](/resume-general/Peter_Zhang_Resume.pdf) of the default resume
+
+🛠 An [example](https://github.com/petezh/Modular-Resume/blob/cv/cv-academic/Peter_Zhang_Resume.pdf of how to modify the default template
 
 🍃 Get it on [OverLeaf](https://www.overleaf.com/latex/templates/modular-resume/kyghjmzkfzwb)
 
