@@ -3,15 +3,10 @@
 \usepackage{enumitem}
 \usepackage{xcolor}
 \usepackage{hyperref}
-\usepackage{fontspec}
-\usepackage{fontawesome}
 \usepackage{bbding}
 \usepackage{import}
-\usepackage{emoji}
-\usepackage{fontawesome}
 \usepackage{xcolor}
-
-\setemojifont{Apple Color Emoji}
+\usepackage{fontawesome}
 
 \pagestyle{empty}
 \geometry{margin=0.5in}
@@ -20,11 +15,9 @@
 \renewcommand\labelitemi{--}
 
 \definecolor{highlight}{RGB}{0,0,0}
-
-\newcommand{\github}{\textcolor{rgb:red,110;green,84;blue,148}{\faGithubSquare}}
-\newcommand{\linkedin}{\textcolor{rgb:red,6;green,108;blue,170}{\faLinkedinSquare}}
+  
 \newcommand{\name}[1]{\begin{center}\section*{\LARGE \color{highlight} #1}\vspace{-0.72cm}\end{center}}
-\newcommand{\topinfo}[1]{\begin{center}\vspace{-0.1cm}#1\vspace{-0.3cm}\end{center}}
-\newcommand{\resumesection}[1]{\vspace{-0.5cm}\section*{\color{highlight}#1}\vspace{-0.2cm}\hrule\vspace{0.2cm}}
 
-\renewcommand{\familydefault}{\sfdefault}
+\newcommand{\topinfo}[1]{\begin{center}\vspace{-0.1cm}#1\vspace{-0.3cm}\end{center}}
+
+\newcommand{\resumesection}[1]{\vspace{-0.5cm}\section*{\color{highlight}#1}\vspace{-0.2cm}\hrule\vspace{0.2cm}}
